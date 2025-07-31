@@ -4,14 +4,17 @@
 Spinel is a cooperative of Ruby open source maintainers, inspired by Geomys.
 
 > **spi·nel** (spɪ'nɛl) **n.**  
-> **1** (mineralogy) Mixed oxides of magnesium and aluminium with cubic symmetry, used as gemstones.  
+> **1** (mineralogy) Mixed oxides of magnesium and aluminium with cubic symmetry, used as gemstones. Some of the world's most famous gemstones are spinels, which were once thought to be rubies.
 > **2** a cooperative of open source maintainers.
 
 Spinel maintains the Ruby language packaging ecosystem, and acts as maintainer of last resort for the Ruby ecosystem. Our portfolio includes:
 
 - rv, the ultimate Ruby version manager and gem tool
+- bundler, the Ruby language dependency manager
+- rubygems, the Ruby language package manager
+- oaken, fixtures + factories + seeds for your Rails environments
 
-A Spinel retainer offers organizations the opportunity to ensure the sustainability of their foundational Ruby dependencies, and direct access to the expertise of the maintainers.
+Spinel offers companies that use Ruby and Rails direct access to the expertise of the maintainers. A Spinel retainer offers organizations the opportunity to ensure the sustainability of their foundational Ruby dependencies, and direct access to the expertise of the maintainers.
 
 If you’re betting your business on a critical open source technology, you
 
