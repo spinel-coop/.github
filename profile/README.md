@@ -1,26 +1,40 @@
 # Spinel
-### The Ruby open source maintainers' cooperative
 
-Spinel is a cooperative of Ruby open source maintainers, inspired by Geomys.
+Spinel is a cooperative of Ruby open source maintainers, inspired by [Geomys](https://geomys.org) and founded by [André Arko](https://arko.net) and [Kasper Timm Hansen](https://kaspth.com).
 
-> **spi·nel** (spɪ'nɛl) **n.**  
-> **1** (mineralogy) Mixed oxides of magnesium and aluminium with cubic symmetry, used as gemstones. Some of the world's most famous gemstones are spinels, which were once thought to be rubies.
+> **spi·nel** (spɪ'nɛl) **_n._**  
+> **1** (mineralogy) Mixed oxides of magnesium and aluminium with cubic symmetry, used as gemstones. Some of the world's most famous gemstones are spinels, which were once thought to be rubies.  
 > **2** a cooperative of open source maintainers.
 
-Spinel maintains the Ruby language packaging ecosystem, and acts as maintainer of last resort for the Ruby ecosystem. Our portfolio includes:
+Spinel develops [`rv`](https://github.com/spinel-coop/rv), the next-generation Ruby version manager and project tool, and offers retainers for core team experts who can supercharge your in-house developers.
 
-- rv, the ultimate Ruby version manager and gem tool
-- bundler, the Ruby language dependency manager
-- rubygems, the Ruby language package manager
-- oaken, fixtures + factories + seeds for your Rails environments
+Our maintainers have either created or been on the core teams of the open source behind every Ruby business:
 
-Spinel offers companies that use Ruby and Rails direct access to the expertise of the maintainers. A Spinel retainer offers organizations the opportunity to ensure the sustainability of their foundational Ruby dependencies, and direct access to the expertise of the maintainers.
+*   [`rails`](https://rubyonrails.org), the Ruby web application framework
+*   [`hotwire (turbo + stimulus)`](https://hotwired.dev), the default front-end framework for Rails
+*   [`hotwire native`](https://native.hotwired.dev), a web-first framework for building native mobile apps
+*   [`trix`](https://trix-editor.org), the rich-text WYSIWYG content editor for Rails
+*   [`kredis`](https://github.com/rails/kredis), higher-level data structures built on redis
+*   [`rbenv + ruby-build`](https://rbenv.org), the original Ruby version management tools
+*   [`rubygems`](https://github.com/rubygems/rubygems), the Ruby standard library package manager
+*   [`bundler`](https://bundler.io), the Ruby standard library dependency manager
+*   [`rubygems.org`](https://rubygems.org), the Ruby language package registry
 
-If you’re betting your business on a critical open source technology, you
+A Spinel retainer offers companies direct access to our expertise, helping them efficiently solve their problems while increasing the sustainability of Ruby open source.
 
-1. want it to be sustainably and predictably maintained; and
-2. need occasional access to expertise that would be blisteringly expensive to acquire and retain.
+If you’re building your business on open source technology, you
 
+1.  want it to be sustainably and predictably maintained; and
+2.  need occasional access to expertise that would be blisteringly expensive<sup>1</sup> to acquire and retain.
+ 
 Getting maintainers on retainer solves both problems for a fraction of the cost of a fully-loaded full-time engineer. From the maintainers’ point of view, it’s steady income to keep doing what they do best. It’s a great deal for both sides.
 
-We'd love to hear from you. You can reach us at hello@ our domain name.
+If you're interested in a retainer, drop us a note at `hello@` our domain.
+
+<footer>
+
+- - -
+
+1. As [Filippo Valsorda explained](https://words.filippo.io/geomys/#fn:buildbuy): Imagine you want to build specialized expertise in the functioning of an open source project internally. Even assuming you have enough interesting work to recruit and retain the right people, you will need to hire at least two Senior Software Engineers, or you lose all institutional knowledge as soon as one leaves. Really, to avoid refocusing on hiring upon a departure, you need three. You’re looking at north of a million dollars per year, fully loaded. It’s a classic build vs. buy. When you frame it like that, my contracts are _cheap_.
+
+</footer>
