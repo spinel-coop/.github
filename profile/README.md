@@ -28,7 +28,7 @@ If you’re building your business on open source technology, you
 
 Getting maintainers on retainer solves both problems for a fraction of the cost of a fully-loaded full-time engineer. From the maintainers’ point of view, it’s steady income to keep doing what they do best. It’s a great deal for both sides.
 
-If you're interested in a retainer, drop us a note at `hello@` this domain.
+If you're interested in a retainer, drop us a note at `hello` at our domain [spinel.coop](https://spinel.coop).
 
 - - -
 
