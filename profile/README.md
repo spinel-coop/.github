@@ -23,8 +23,8 @@ A Spinel retainer offers companies direct access to our expertise, helping them 
 
 If you’re building your business on open source technology, you
 
-1.  want it to be sustainably and predictably maintained; and <a name="fn:expensive"></a>
-2.  need occasional access to expertise that would be [blisteringly expensive<sup>1</sup>](#expensive) to acquire and retain.
+1.  want it to be sustainably and predictably maintained; and
+2.  need occasional access to expertise that would be blisteringly expensive<sup>1</sup>to acquire and retain.
 
 Getting maintainers on retainer solves both problems for a fraction of the cost of a fully-loaded full-time engineer. From the maintainers’ point of view, it’s steady income to keep doing what they do best. It’s a great deal for both sides.
 
